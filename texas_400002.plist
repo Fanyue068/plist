@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+    		<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://download.068.com/App/cps/400002/texas-2.11-20150703-400002-U.ipa</string>
+				</dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://www.068.com/skin/frontend/game/default/images/game-ico/texas.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://www.068.com/skin/frontend/game/default/images/140.png</string>
+                </dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.fy.game.texas</string>
+				<key>bundle-version</key>
+				<string>2.9.0204_U</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>凡跃德州扑克</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
